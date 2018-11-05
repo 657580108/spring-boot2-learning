@@ -2,9 +2,7 @@
 
 本文是基于 Spring Boot 2.x 版本进行的系列教程，欢迎关注我的公众号 **`battcn`**
 
-# 公众号
 
-![公众号](http://image.battcn.com/assets/images/wxgzh8cm.png)
 
 # 推荐开源项目
 
